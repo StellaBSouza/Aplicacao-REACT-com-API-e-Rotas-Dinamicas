@@ -16,9 +16,9 @@ Esta é uma aplicação React simples que lista os estados e cidades do Brasil. 
 
 Para instalar e executar este projeto, siga os seguintes passos:
 
-1. Clone o repositório para a sua máquina local usando `git clone URL_DO_REPOSITÓRIO`.
+1. Clone o repositório para a sua máquina local usando `git clone  https://github.com/StellaBSouza/Aplicacao-REACT-com-API-e-Rotas-Dinamicas.git`
 
-2. Navegue até o diretório do projeto usando `cd NOME_DO_DIRETÓRIO`.
+2. Navegue até o diretório do projeto usando `cd cidades`.
 
 3. Instale todas as dependências do projeto com `npm install`.
 
@@ -26,9 +26,11 @@ Para instalar e executar este projeto, siga os seguintes passos:
 
 
 # Prints da Aplicação
- 
+
+! Projeto 1 ,
+! Projeto 2
 
 # Acesso Online
 
-Você pode acessar a aplicação online em: https://stellabsouza.github.io/Aplicacao-REACT-com-API-e-Rotas-Dinamicas/
-Você pode acessar o link do Github em: https://github.com/StellaBSouza/Aplicacao-REACT-com-API-e-Rotas-Dinamicas.git
+- Você pode acessar a aplicação online em: https://stellabsouza.github.io/Aplicacao-REACT-com-API-e-Rotas-Dinamicas/
+- Você pode acessar o link do Github em: https://github.com/StellaBSouza/Aplicacao-REACT-com-API-e-Rotas-Dinamicas.git
